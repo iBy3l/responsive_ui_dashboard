@@ -55,6 +55,14 @@ class ResponsiveLayout extends StatelessWidget {
 ```
 <p align="center"><img src="https://github.com/iBy3l/responsive_ui_dashboard/blob/master/RESPONSIVE%20W.png"></p>
 
+# Creating 3 files for each device
 
-
+``` 
+├── lib
+│   └── responsive
+│       ├── desktop_scaffold.dart
+│       ├── mobile_scaffold.dart
+│       ├── responsive_layout.dart
+│       └── table_scaffold.dart
+```
 
