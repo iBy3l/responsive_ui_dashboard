@@ -1,7 +1,7 @@
 # Responsive UI with Flutter
 
 
-<p align="center"><img src="https://github.com/iBy3l/Grocery-App/blob/main/Screencast%20from%2012-07-2022%2016_55_32.gif"></p>
+<p align="center"><img src="https://github.com/iBy3l/responsive_ui_dashboard/blob/master/RESPONSIVE.gif"></p>
 
 LayoutBuilder class (Null safety)
 
