@@ -66,3 +66,6 @@ class ResponsiveLayout extends StatelessWidget {
 │       └── table_scaffold.dart
 ```
 
+
+
+<p align="center"><img src="https://github.com/iBy3l/responsive_ui_dashboard/blob/master/responsive_ui.gif"></p>
